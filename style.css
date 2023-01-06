@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #c8d6e5;
+}
+
+#leftbar > * {
+	border: 1px black solid;
+}
+
+#rightbar > * {
+	border: 1px lightgray solid;
+	background-color: white;
+}
